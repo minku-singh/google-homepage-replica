@@ -1,0 +1,148 @@
+*
+{
+    margin: 0%;
+}
+
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: small;
+}
+
+#account
+{
+    display: flex;
+    justify-content: flex-end;
+    margin: 2vh 2vh 2vh 2vh;
+}
+
+.acc
+{
+    margin-right: 1vw;
+}
+
+#account img
+{
+    width: 1vw;
+    height: 2.5vh;
+}
+
+                            /*logo*/ 
+#logo
+{
+    text-align: center;
+}
+
+#logo h1
+{
+    margin: 5vh 5vh 5vh 5vh;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15vh;
+
+}
+
+                           /*Search Bar*/
+
+#search-bar
+{
+    text-align: center;
+    border-radius: 30px;
+    margin-top: 1vh;
+}
+
+#search-bar input
+{
+    width: 45vw;
+    height: 6vh;
+    text-align: left;
+}
+
+.lens
+{
+    margin-left: -580px;
+    margin-top: -35px;
+}
+
+.mic
+{
+    margin-left: 560px;
+    margin-top: -28px;
+}
+
+
+                           /*Extra Search*/
+#extra-search
+{
+    display: flex;
+    justify-content: center;
+}
+
+.each-div
+{
+    margin: 6vh 6vh;
+    padding: 1vh;
+    background-color: rgb(241, 240, 240);
+}
+
+                         /*Language*/
+#language
+{
+    text-align: center;
+    margin-bottom: 29.5vh;
+}
+
+.lang
+{
+    margin: 1vh;
+}
+
+                          /*footer*/
+                          
+hr
+{
+    height: 1px;
+    border: none;
+    background-color: rgb(224, 224, 224);
+}
+
+footer
+{
+    background-color: rgb(241, 240, 240);
+}
+
+
+
+.terms
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.gray
+{
+    padding: 1.7vh;
+}
+
+.india
+{
+    margin-left: 2vh;
+    color: rgb(124, 124, 124);
+}
+
+.about
+{
+    margin: 2vh;
+}
+
+.link-col
+{
+    background-color: transparent;
+    color: gray;
+    text-decoration: none;
+}
+
+.link-col:hover
+{
+    text-decoration: underline;
+
+}
