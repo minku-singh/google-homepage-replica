@@ -1,7 +1,8 @@
 # google-homepage-replica
-Created the home page replica of Google.
+Tried to create the home page replica of Google.
 
 ## Replica image
+#### Tap to view clear image
 ![image](google-homepage/image/replica-img.png)
 
 ## Author
