@@ -2,7 +2,7 @@
 Created the home page replica of Google.
 
 ## Replica image
-![image](image/replica-img.png)
+![image](google-homepage/image/replica-img.png)
 
 ## Author
 - Minku Singh
